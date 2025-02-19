@@ -1,0 +1,25 @@
+
+USE[HR]
+ALTER TABLE Employee
+ADD Department_ID int
+
+ALTER TABLE Employee
+ADD FOREIGN KEY (Department_ID) References Department(Department_ID)
+
+
+ALTER TABLE Department
+ADD Location_ID int
+
+ALTER TABLE Department
+ADD FOREIGN KEY (Location_ID) REFERENCES Location(Location_ID)
+
+
+ALTER TABLE Employee
+ADD Job_ID nvarchar(15)
+
+ALTER TABLE Employee
+ADD FOREIGN KEY (Job_ID) REFERENCES Job(Job_ID)
+
+ALTER TABLE Job_history
+ADD FOREIGN KEY (Employee_ID) REFERENCES Employee(Employee_ID)
+
