@@ -1,0 +1,286 @@
+Book 1:
+Title: The Adventures of Sherlock Holmes
+ISBN: 9780099515628
+Author: Arthur Conan Doyle
+Price: 10.99
+Copies: 20
+
+Book 2:
+Title: The Count of Monte Cristo
+ISBN: 9780140449266
+Author: Alexandre Dumas
+Price: 14.50
+Copies: 15
+
+Book 3:
+Title: David Copperfield
+ISBN: 9780141439525
+Author: Charles Dickens
+Price: 12.75
+Copies: 18
+
+Book 4:
+Title: Jane Eyre
+ISBN: 9780141441146
+Author: Charlotte Brontë
+Price: 9.99
+Copies: 22
+
+Book 5:
+Title: Wuthering Heights
+ISBN: 9780141439556
+Author: Emily Brontë
+Price: 11.25
+Copies: 16
+
+Book 6:
+Title: Sense and Sensibility
+ISBN: 9780141439570
+Author: Jane Austen
+Price: 10.50
+Copies: 19
+
+Book 7:
+Title: Emma
+ISBN: 9780141439587
+Author: Jane Austen
+Price: 12.00
+Copies: 21
+
+Book 8:
+Title: Persuasion
+ISBN: 9780141439594
+Author: Jane Austen
+Price: 9.75
+Copies: 23
+
+Book 9:
+Title: Northanger Abbey
+ISBN: 9780141439600
+Author: Jane Austen
+Price: 11.50
+Copies: 17
+
+Book 10:
+Title: Mansfield Park
+ISBN: 9780141439617
+Author: Jane Austen
+Price: 13.00
+Copies: 14
+
+Book 11:
+Title: Middlemarch
+ISBN: 9780140435221
+Author: George Eliot
+Price: 15.50
+Copies: 12
+
+Book 12:
+Title: Tess of the d'Urbervilles
+ISBN: 9780141439631
+Author: Thomas Hardy
+Price: 14.00
+Copies: 20
+
+Book 13:
+Title: The Picture of Dorian Gray
+ISBN: 9780141439655
+Author: Oscar Wilde
+Price: 10.75
+Copies: 18
+
+Book 14:
+Title: Dracula
+ISBN: 9780141439662
+Author: Bram Stoker
+Price: 12.25
+Copies: 19
+
+Book 15:
+Title: Frankenstein
+ISBN: 9780141439679
+Author: Mary Shelley
+Price: 11.00
+Copies: 21
+
+Book 16:
+Title: The Strange Case of Dr Jekyll and Mr Hyde
+ISBN: 9780141439686
+Author: Robert Louis Stevenson
+Price: 9.50
+Copies: 23
+
+Book 17:
+Title: Treasure Island
+ISBN: 9780141439693
+Author: Robert Louis Stevenson
+Price: 10.00
+Copies: 17
+
+Book 18:
+Title: Gulliver's Travels
+ISBN: 9780141439709
+Author: Jonathan Swift
+Price: 13.50
+Copies: 14
+
+Book 19:
+Title: Robinson Crusoe
+ISBN: 9780141439716
+Author: Daniel Defoe
+Price: 12.50
+Copies: 16
+
+Book 20:
+Title: Moby-Dick
+ISBN: 9780142437247
+Author: Herman Melville
+Price: 14.75
+Copies: 18
+
+Book 21:
+Title: The Scarlet Letter
+ISBN: 9780140441222
+Author: Nathaniel Hawthorne
+Price: 11.75
+Copies: 20
+
+Book 22:
+Title: The Adventures of Huckleberry Finn
+ISBN: 9780140360639
+Author: Mark Twain
+Price: 13.25
+Copies: 19
+
+Book 23:
+Title: Little Women
+ISBN: 9780140350999
+Author: Louisa May Alcott
+Price: 12.00
+Copies: 22
+
+Book 24:
+Title: The Call of the Wild
+ISBN: 9780140390889
+Author: Jack London
+Price: 10.50
+Copies: 21
+
+Book 25:
+Title: White Fang
+ISBN: 9780140390896
+Author: Jack London
+Price: 11.50
+Copies: 23
+
+Book 26:
+Title: The Time Machine
+ISBN: 9780140433722
+Author: H.G. Wells
+Price: 9.75
+Copies: 17
+
+Book 27:
+Title: The War of the Worlds
+ISBN: 9780140430837
+Author: H.G. Wells
+Price: 13.00
+Copies: 14
+
+Book 28:
+Title: A Study in Scarlet
+ISBN: 9780141439723
+Author: Arthur Conan Doyle
+Price: 14.50
+Copies: 16
+
+Book 29:
+Title: The Sign of the Four
+ISBN: 9780141439730
+Author: Arthur Conan Doyle
+Price: 12.75
+Copies: 18
+
+Book 30:
+Title: The Hound of the Baskervilles
+ISBN: 9780141439747
+Author: Arthur Conan Doyle
+Price: 15.50
+Copies: 20
+
+Book 31:
+Title: The Valley of Fear
+ISBN: 9780141439754
+Author: Arthur Conan Doyle
+Price: 14.00
+Copies: 19
+
+Book 32:
+Title: The Adventures of Tom Sawyer
+ISBN: 9780140360622
+Author: Mark Twain
+Price: 10.75
+Copies: 22
+
+Book 33:
+Title: A Tale of Two Cities
+ISBN: 9780141439761
+Author: Charles Dickens
+Price: 12.25
+Copies: 21
+
+Book 34:
+Title: Great Expectations
+ISBN: 9780141439778
+Author: Charles Dickens
+Price: 11.00
+Copies: 23
+
+Book 35:
+Title: Oliver Twist
+ISBN: 9780141439785
+Author: Charles Dickens
+Price: 9.50
+Copies: 17
+
+Book 36:
+Title: Bleak House
+ISBN: 9780141439792
+Author: Charles Dickens
+Price: 10.00
+Copies: 14
+
+Book 37:
+Title: Hard Times
+ISBN: 9780141439808
+Author: Charles Dickens
+Price: 13.50
+Copies: 16
+
+Book 38:
+Title: Our Mutual Friend
+ISBN: 9780141439815
+Author: Charles Dickens
+Price: 12.50
+Copies: 18
+
+Book 39:
+Title: The Woman in White
+ISBN: 9780141439822
+Author: Wilkie Collins
+Price: 14.75
+Copies: 20
+
+Book 40:
+Title: The Moonstone
+ISBN: 9780141439839
+Author: Wilkie Collins
+Price: 11.75
+Copies: 19
+
+Book 41:
+Title: The Picture of Health
+ISBN: 9780141439846
+Author: Sarah Moss
+Price: 13.25
+Copies: 2
