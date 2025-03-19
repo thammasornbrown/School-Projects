@@ -1,6 +1,6 @@
 /* Name: Thammasorn Brown
 	Date: 3/8/2025
-	Objective: Read names from a text file and store them in a struct, then utlize the struct across various functions to find the highest score, assign letter grades and output all student names with their relevant test info.
+	Objective: Read book entries from a text file and store them into class variables.
 */
 
 #include <iostream>
