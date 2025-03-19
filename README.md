@@ -1,3 +1,6 @@
-# School-Projects
- - A collection of some of my projects from various courses at Valencia such as C, C++ and Database management.
- - Not all my works here will be perfect but I will attempt to fix them as I progress through my courses and gain feedback from professors.
+# To-Fix
+ ⚠ Fix file reading logic: Ensure names are correctly paired (i.e., read FName LName from one line instead of separate loops).
+ ⚠ Initialize savedHighest before use to prevent undefined behavior.
+ ⚠ Use else if in letterGrade() to improve efficiency.
+ ⚠ Improve documentation for function parameters and return values.
+ ⚠ Consider dynamically allocating studentRecords with new to avoid fixed-size arrays.
